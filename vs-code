@@ -1,0 +1,40 @@
+{
+    "editor.tabSize": 2,
+    "editor.matchBrackets": false,
+    "window.zoomLevel": 1,
+    "gitlens.showWhatsNewAfterUpgrades": false,
+    "editor.minimap.enabled": false,
+    "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
+    "php-cs-fixer.lastDownload": 1569975248915,
+    "php-cs-fixer.autoFixByBracket": false,
+    "php-cs-fixer.formatHtml": true,
+    "typescript.validate.enable": false,
+    "typescript.format.enable": false,
+    "typescript.format.insertSpaceAfterCommaDelimiter": false,
+    "typescript.tsc.autoDetect": "off",
+    "javascript.validate.enable": false,
+    "explorer.confirmDelete": false,
+    "workbench.statusBar.feedback.visible": false,
+    "workbench.editor.highlightModifiedTabs": true,
+    "breadcrumbs.enabled": true,
+    "breadcrumbs.symbolPath": "off",
+    "eslint.autoFixOnSave": true,
+    "workbench.colorTheme": "Quiet Light",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "diffEditor.renderSideBySide": true,
+    "workbench.editor.enablePreview": false,
+    "bracketPairColorizer.activeScopeCSS": [
+        "borderStyle : solid",
+        "borderWidth : 1px",
+        "borderColor : {color}; opacity: 0.2",
+        "backgroundColor : {color};"
+    ],
+    "bracketPairColorizer.highlightActiveScope": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "search.collapseResults": "alwaysCollapse",
+    "editor.wordWrap": "on",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.renderWhitespace": "all"
+}
